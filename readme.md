@@ -12,7 +12,7 @@
 
 ### Jawaban :
 
-jawaban tertera pada file [Jawaban Nomor 1.html](https://github.com/alfitosantosa/AlfitoLoopingBersamaMasTata/nomerSatu.html "Github Alfito")
+jawaban tertera pada file [Jawaban Nomor 1.html](https://github.com/alfitosans/AlfitoLoopingBersamaMasTata/blob/master/nomerSatu.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -48,7 +48,7 @@ jawaban tertera pada file [Jawaban Nomor 1.html](https://github.com/alfitosantos
 
 ### Jawaban :
 
-jawaban tertera pada file [Jawaban Nomor 2.html](https://github.com/alfitosantosa/LoopingBersamaMasTata/nomerDua.html "Github Alfito")
+jawaban tertera pada file [Jawaban Nomor 2.html](https://github.com/alfitosans/AlfitoLoopingBersamaMasTata/blob/master/nomerDua.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -78,7 +78,7 @@ jawaban tertera pada file [Jawaban Nomor 2.html](https://github.com/alfitosantos
 
 ### Jawaban :
 
-jawaban tertera pada file [Jawaban Nomor 3.html](https://github.com/alfitosantosa/LoopingBersamaMasTata/nomerTiga.html "Github Alfito")
+jawaban tertera pada file [Jawaban Nomor 3.html](https://github.com/alfitosans/AlfitoLoopingBersamaMasTata/blob/master/nomerTiga.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -105,7 +105,7 @@ jawaban tertera pada file [Jawaban Nomor 3.html](https://github.com/alfitosantos
 
 ### Jawaban :
 
-jawaban tertera pada file [Jawaban Nomor 4.html](https://github.com/alfitosantosa/LoopingBersamaMasTata/nomerEmpat.html "Github Alfito")
+jawaban tertera pada file [Jawaban Nomor 4.html](https://github.com/alfitosans/AlfitoLoopingBersamaMasTata/blob/master/nomerEmpat.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
@@ -143,7 +143,7 @@ jawaban tertera pada file [Jawaban Nomor 4.html](https://github.com/alfitosantos
 
 ### Jawaban :
 
-jawaban tertera pada file [Jawaban Nomor 5.html](https://github.com/alfitosantosa/LoopingBersamaMasTata/nomerLima.html "Github Alfito")
+jawaban tertera pada file [Jawaban Nomor 5.html](https://github.com/alfitosans/AlfitoLoopingBersamaMasTata/blob/master/nomerLima.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
