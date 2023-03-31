@@ -12,7 +12,7 @@
 
 ### Jawaban :
 
-jawaban tertera pada file [Jawaban Nomor 1.html](https://github.com/alfitosantosa/LoopingBersamaMasTata/nomerSatu.html "Github Alfito")
+jawaban tertera pada file [Jawaban Nomor 1.html](https://github.com/alfitosantosa/AlfitoLoopingBersamaMasTata/nomerSatu.html "Github Alfito")
 
 **Penjelasan ada pada comment pada kode berikut : **
 
