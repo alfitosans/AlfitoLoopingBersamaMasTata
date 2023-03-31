@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jawaban No 4</title>
+    <style>
+      .nama {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: #eee;
+        padding: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nama">Muhammad Alfito Santosa</div>
+  </body>
+  <script>
+    // mendeklarasikan variabel jumlah perulangan
+    let perulangan = 0;
+
+    // Mendeklarasikan variabel lagi dengan nilai true
+    let lagi = true;
+
+    // melakukan perulangan jika nilai lagi adalah true
+    while (lagi) {
+      perulangan++;
+      // menampilkan confirm dan menyimpan hasilnya ke variable mau
+      let mau = confirm("Apakah anda mau mengulang");
+      // melakukan pengecekan nilai variabel mau
+      mau == true ? (lagi = true) : (lagi = false); 
+    }
+    // menampilkan jumlah perulangan
+    alert(`perulangan sudah dilakukan sebanyak : ${perulangan}`);
+  </script>
+</html>

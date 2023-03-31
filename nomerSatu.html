@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nomor 1</title>
+    <style>
+      .nama {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: #eee;
+        padding: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nama">Muhammad Alfito Santosa</div>
+    <h2>Jumlah User</h2>
+    <ul id="list"></ul>
+
+    <script>
+      // Mengambil elemen ul #list
+      const list = document.getElementById("list");
+
+      // input nilai ke variabel user
+      let user = 100;
+
+      // Lakukan perulangan berdasarkan jumlah user
+      for (let i = 1; i <= 100; i++) {
+        list.innerHTML += `<li>user ke :${i}</li>`;
+        // console.log(`<li>user ke :${i}<li>`);
+      }
+    </script>
+  </body>
+</html>

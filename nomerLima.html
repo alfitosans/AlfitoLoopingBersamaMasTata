@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jawaban No 4</title>
+    <style>
+      .nama {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: #eee;
+        padding: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nama">Muhammad Alfito Santosa</div>
+  </body>
+  <script>
+    // Mendeklarasikan variabel benar dengan nilai true
+    let benar = true;
+
+    // melakukan perulangan jika variabel benar bernilai true
+    while (benar) {
+        // menampilkan prompt
+      let jawabanUser = prompt("Apa kepanjangan dari IB? (Impact Byte)");
+    
+    //   mengkonversi jawaban user menjadi huruf kecil
+      jawabanUser = jawabanUser.toLowerCase();
+    //   menlakukan pengkondisian jawaban benar atau salah
+      if (jawabanUser == "impact byte") {
+        // kalau benar, maka variabel benar akan bernilai false. sehingga akan keluar dari perulangan
+        benar = false
+      } else {
+        // kalau salah akan menampilkan alert salah
+        alert("Jawaban kamu salah")
+      }
+    }
+
+    // setelah benar dan keluar dari perulangan. maka akan menampilkan alert jawaban benar
+    alert("SELAMAT JAWABAN KAMU BENAR")
+  </script>
+</html>
