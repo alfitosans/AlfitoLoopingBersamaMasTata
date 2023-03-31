@@ -1,4 +1,4 @@
-# Nama : Muhamad Alfito Santosa (tim : FE-8)
+# Nama : Muhamad Alfito Santosa (Tim : FE-8)
 
 # Penjelasan
 
